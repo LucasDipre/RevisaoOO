@@ -12,7 +12,7 @@ package exemplo2Slide;
 public class SistemaInterno {
     private int senha;
     
-    //teste github
+    //Puta que pariu
     
     void login(Autenticavel a){
         boolean ok = a.autentica(senha);
